@@ -8,3 +8,7 @@ Developers:
 Quest Designers:
 - The Oyster Hippopotamus / [rEd] Orichalon
 - 2cwldys
+
+Repo Wiki Maintainers:
+- The Oyster Hippopotamus / [rED] Orichalon
+- 2cwldys
