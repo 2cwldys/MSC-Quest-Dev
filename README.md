@@ -1,5 +1,5 @@
 # MSC-Quest-Dev
-An open-sourced quest scripting repository for Half Life 1 modification, Master Sword Continued.
+An open-sourced quest scripting repository for the Half Life 1 modification, Master Sword Continued.
 
 Developers:
 - Greatguys1 / Hexasaurus Rex
